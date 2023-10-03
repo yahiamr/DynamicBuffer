@@ -1,1 +1,1 @@
-#TODO create the sources variable that includes the source files and add it to the parent scope
+add_library(BufferLib ${CMAKE_HOME_DIRECTORY}/Concrete_DynamicBuffer/Buffer.cpp)
