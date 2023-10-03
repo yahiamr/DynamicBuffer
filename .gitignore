@@ -40,4 +40,6 @@
 **/CMakeScripts
 **/compile_commands.json
 
+buildYaya
 build
+.vscode
