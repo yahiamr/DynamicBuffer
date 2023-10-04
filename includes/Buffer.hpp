@@ -31,6 +31,6 @@ class Buffer{
     // buffer size
     unsigned int mSize = 0;
     // buffer is allocated boolean 
-    bool mAllocated = false;    
+    bool mIsllocated = false;    
     
 };
